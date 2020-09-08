@@ -1,6 +1,6 @@
 ### Hi there. I am Neville, currently studying at University at Auckland.
 
-#### See some of my projects at [my portfolio](http://neville-loh.github.io)
+#### Check out some of my projects at my [portfolio](http://neville-loh.github.io).
 #### You can reach me at [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/neville-loh/)
 
 <!--
