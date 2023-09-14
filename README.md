@@ -1,4 +1,4 @@
-### Hi there. I am Neville, currently studying at University of Auckland.
+### Hi there. I am Neville.
 
 #### You can reach me at [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/neville-loh/)
 <!--
