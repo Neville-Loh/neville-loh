@@ -1,6 +1,6 @@
 ### Hi there. I am Neville.
 
-#### You can reach me at [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/neville-loh/)
+#### You can reach me at [LinkedIn](https://www.linkedin.com/in/nevilleloh/)
 
 <!--
 **Neville-Loh/neville-loh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
